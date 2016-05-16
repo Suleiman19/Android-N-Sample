@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="card_height">96dp</dimen>
+    <dimen name="avenger_textsize">20sp</dimen>
+
+</resources>
