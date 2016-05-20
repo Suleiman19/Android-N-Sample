@@ -5,22 +5,44 @@
     android:layout_height="match_parent"
     tools:context="com.grafixartist.androidn.DetailActivity">
 
-    <ImageView
-        android:id="@+id/detail_img"
+    <VideoView
+        android:id="@+id/detail_video"
         android:layout_width="match_parent"
-        android:layout_height="240dp"
-        android:layout_gravity="top"
-        android:scaleType="centerCrop"
-        tools:background="@color/colorAccent" />
+        android:layout_height="200dp" />
 
-    <TextView
-        android:id="@+id/detail_name"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="240dp"
-        android:gravity="center"
-        android:padding="@dimen/activity_margin"
-        tools:text="Avenger" />
+        android:layout_marginTop="200dp"
+        android:orientation="horizontal"
+        android:padding="@dimen/activity_margin">
 
+        <ImageView
+            android:id="@+id/detail_img"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_gravity="top"
+            android:scaleType="centerCrop"
+            tools:background="@color/colorAccent" />
+
+        <TextView
+            android:id="@+id/detail_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center|start"
+            android:padding="@dimen/activity_margin"
+            tools:text="Avenger" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/detail_pip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/activity_margin"
+        android:background="@color/colorAccent"
+        android:src="@drawable/ic_picture_in_picture_alt_black_24dp"
+        android:tint="@android:color/white" />
 
 </FrameLayout>
