@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="avenger_textsize">20sp</dimen>
+    <dimen name="card_height">96dp</dimen>
+</resources>

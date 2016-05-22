@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="dc88341cbaaac9d67a982378e5df68d8c81289ed">
+        <dex dex="/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0-alpha2_a11700c8db76eba9572232f97f7cf5f7a156ce6e/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha2/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha2/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]
