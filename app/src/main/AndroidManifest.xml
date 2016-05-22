@@ -26,12 +26,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <!-- Launches Activity as a new Task.
+            This Activity can now open as a separate Multi-Window,
+            alongside MainActivity -->
         <activity
             android:name=".DetailActivity"
-            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
-            android:resizeableActivity="true"
-            android:supportsPictureInPicture="true"></activity>
+            android:taskAffinity=""></activity>
     </application>
 
 </manifest>
