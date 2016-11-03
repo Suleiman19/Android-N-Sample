@@ -60,7 +60,9 @@ public class MainActivity extends AppCompatActivity {
                 // TODO: 5/15/16 handle click
 
                 Intent intent = new Intent(MainActivity.this, DetailActivity.class);
-                intent.addFlags(Intent.FLAG_ACTIVITY_LAUNCH_ADJACENT | Intent.FLAG_ACTIVITY_NEW_TASK);
+
+                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N)
+                    intent.addFlags(Intent.FLAG_ACTIVITY_LAUNCH_ADJACENT | Intent.FLAG_ACTIVITY_NEW_TASK);
 
                 // Fetch Avenger at position
                 Avenger avenger = adapter.getAvengers().get(position);
