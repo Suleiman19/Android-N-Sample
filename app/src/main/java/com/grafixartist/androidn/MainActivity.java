@@ -2,6 +2,7 @@ package com.grafixartist.androidn;
 
 import android.content.Intent;
 import android.graphics.drawable.TransitionDrawable;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
@@ -47,8 +48,10 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView.setAdapter(adapter);
 
-        if (isInMultiWindowMode()) {
-            Toast.makeText(MainActivity.this, "Yay, Multi-Window!", Toast.LENGTH_SHORT).show();
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+            if (isInMultiWindowMode()) {
+                Toast.makeText(MainActivity.this, "Yay, Multi-Window!", Toast.LENGTH_SHORT).show();
+            }
         }
 
         adapter.SetOnItemClickListener(new AvengersAdapter.OnItemClickListener() {

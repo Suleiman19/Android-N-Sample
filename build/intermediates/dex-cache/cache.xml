@@ -2,11 +2,184 @@
 <items version="2" >
 
     <item
-        jar="/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-alpha2/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/aravindraj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
         jumboMode="true"
-        revision="24.0.0 rc3"
-        sha1="dc88341cbaaac9d67a982378e5df68d8c81289ed">
-        <dex dex="/Users/Suleiman19/Documents/Android/AndroidN/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0-alpha2_a11700c8db76eba9572232f97f7cf5f7a156ce6e/classes.dex" />
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_89e67ffa5d4c99e16f37c6cce025677966505327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3a6ba28aaa0e219959cf2e5d95a7bb93c65be400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4a11c8d61b66cd7d14e539129db5183b4cea7fb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_8d2f6f7b34baa07db3ba819be5b0e10f531688c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4fe59e0b540a79ec6f28349ac725eeafbae98b4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_0feaca79e054b13cfe4310f6b523458ee1f02bf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_f1162fb5c98afa30a0d2678e06ceeba1c0cdaf1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_27956d2c964ffa849d46fd92d9dfd346e787c5f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a7b03b37ee19e2f44b4123c238fe11700938e99">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24e11e8138da7406111c765f6569a92daa21fe76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_752fb0f348445a21f0ef2fe811e31630bb3dc266/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_6e8a87fe588c622f8d94912c59dec9a2c545c8c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_7506956f0416cbd3c92baeee4710378cd6274219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_d3befdd71d58ae437194917b2a11387d7e322400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_3aa30892fcefdc5c80079321efcbe77e8d66cd6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_392a991676d283c7123602aee67985573fc84329/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d64e8c4ea14cfa1415f9135e65ab45ce6a5745fd">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0729ae5c60421f11003f7e322cf47fad35b7e221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_423e790117a0330febf3c65e98e0c1b3c93267be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0d057a04a3dc1b5bd9bcd8b2c2594423a28df92d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_22eaa38b5538e86cf0d21bab57e776e5dcdd5399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/aravindraj/Documents/Android/Android-N-Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ae57f09a82033646eaf2358f988fd2a4ea7b9513/classes.dex" />
     </item>
 
 </items>
